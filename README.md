@@ -20,4 +20,11 @@
    
   
  <br>
- ## 도메인 설계
+ 
+ ## 도메인
+ 
+ - 회원 도메인 설계
+ 
+<p align="center"><img src="/images/User_domain.png"></p>
+
+- 주문-할인 도메인 설계
