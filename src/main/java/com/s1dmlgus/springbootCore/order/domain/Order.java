@@ -16,6 +16,8 @@ public class Order {
     private int itemPrice;
     private int discountPrice;
 
-
+    public int calculatePrice(){
+        return itemPrice - discountPrice;
+    }
 
 }

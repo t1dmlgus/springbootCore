@@ -1,6 +1,6 @@
 package com.s1dmlgus.springbootCore.order.service;
 
-import javax.persistence.criteria.Order;
+import com.s1dmlgus.springbootCore.order.domain.Order;
 
 public interface OrderService {
 
